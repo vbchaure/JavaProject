@@ -12,6 +12,6 @@ Give the option to
 and display the final balance.
 display the list of customers of the bank with the final balance.
 use case and switch,collection to store the customer details and transaction details.
-* minimum balance should Rs1000
+minimum balance should Rs1000
 
 -------------------------------
